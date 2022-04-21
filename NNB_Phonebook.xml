@@ -8,7 +8,7 @@
       <Unit Name="Габышева Мария Яновна" Phone1="1430" Phone2="" Phone3="" default_photo="Resource:"/>
       <Unit Name="Иннокентьева Тамара Викторовна" Phone1="1400" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
-<!--   <Menu Name="ИТР">
+  <Menu Name="ИТР">
     <Unit Name="Олесов Степан Анатольевич" Phone1="1405" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Губенко Андрей Николаевич" Phone1="1406" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Ильин Михаил Михайлович" Phone1="1407" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -68,5 +68,5 @@
     <Unit Name="АЗС-164" Phone1="89142850363" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="КАЗС Кутана" Phone1="89681521615" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС-45" Phone1="1497" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu> -->
+  </Menu>
 </YealinkIPPhoneBook>
