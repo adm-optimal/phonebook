@@ -19,12 +19,12 @@
     <Unit Name="Канцелярия" Phone1="1422" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="Бухгалтерия">
-    <Unit Name="Егорова Екатерина Андреевна" Phone1="1431" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Васильева Сахаяна Анатольевна" Phone1="1431" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Бутрим Тамара Анатольевна" Phone1="1432" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Михайлова Мария Ильинична" Phone1="1433" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Федорова Валентина Владимировна" Phone1="1434" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Васильева Людмила Викторовна" Phone1="1435" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Васильева Сахаяна Анатольевна" Phone1="1436" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Егорова Екатерина Андреевна" Phone1="1436" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Иванова Галина Николаевна" Phone1="1437" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="Цеха">
