@@ -44,7 +44,7 @@
     <Unit Name="КПП Намцы" Phone1="84113325337" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="Вилюйск">
-    <Unit Name="Иванов Геннадий Павлович" Phone1="1450" Phone2="" Phone3="" default_photo="Resource:"/>
+<!--    <Unit Name="Иванов Геннадий Павлович" Phone1="1450" Phone2="" Phone3="" default_photo="Resource:"/> -->
     <Unit Name="Туласынов Николай Иванович" Phone1="1451" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Харлампьев Павел Павлович" Phone1="1452" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Васильев Гаврил Гаврильевич" Phone1="1453" Phone2="" Phone3="" default_photo="Resource:"/>
