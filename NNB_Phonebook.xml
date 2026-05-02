@@ -33,32 +33,27 @@
     <Unit Name="Верхний гараж" Phone1="1415" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Алексеева Ольга Александровна" Phone1="1416" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Машинисты РП" Phone1="1417" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Гаврильев Андрей Андреевич" Phone1="1418" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Теплый склад" Phone1="1418" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Берег Нюрба" Phone1="1440" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Пожарная охрана" Phone1="1499" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Комиссия ФХД" Phone1="1480" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="5. Вилюйск">
     <Unit Name="Чабыев Владимир Владимирович" Phone1="1451" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Павлова Алена Афанасьевна" Phone1="1456" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
-  <Menu Name="6. Верхневилюйск">
-    <Unit Name="Платонов Михаил Николаевич" Phone1="1460" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
-    <Menu Name="7. Сунтар">
+    <Menu Name="6. Сунтар">
     <Unit Name="Федоров Василий Васильевич" Phone1="1470" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Ю Андрей Егорович" Phone1="1471" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Андреев Семен Тарасович" Phone1="1472" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Амонова Елизавета Аркадьевна" Phone1="1473" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Бойлерная" Phone1="1474" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
-  <Menu Name="8. Охрана">
+  <Menu Name="7. Охрана">
     <Unit Name="КПП Нюрба" Phone1="1412" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="КПП Вилюйск" Phone1="1454" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="КПП Сунтар" Phone1="1475" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="КПП Намцы" Phone1="1461" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
-  <Menu Name="9. АЗС">
+  <Menu Name="8. АЗС">
     <Unit Name="АЗС-38" Phone1="1491" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС-39" Phone1="1492" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС-61" Phone1="1493" Phone2="" Phone3="" default_photo="Resource:"/>
